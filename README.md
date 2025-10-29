@@ -84,8 +84,7 @@ Through this project, we:
 
 ## 🧩 Author
 
-**Deepthi Pachigulla**  
-- 🧑‍💻 2nd Year CSE-DS Student  
+**Deepthi Pachigulla**   
 - 📘 Skilled in Python, Pandas, NumPy, and Data Visualization  
 - 🌐 [GitHub Profile](https://github.com/deepthi25p)
 
