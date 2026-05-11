@@ -4,7 +4,6 @@ This project focuses on analyzing Amazon sales data to uncover meaningful insigh
 It is built and explored using **Python** in **Google Colab** with visualization and data analysis libraries.
 
 ---
-
 ## 🚀 Project Overview
 
 The main goal of this project is to perform **Exploratory Data Analysis (EDA)** on Amazon sales data to:
