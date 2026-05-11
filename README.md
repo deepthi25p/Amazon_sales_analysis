@@ -98,4 +98,3 @@ Special thanks to:
 
 ---
 
-⭐ *If you like this project, give it a star on GitHub!*
